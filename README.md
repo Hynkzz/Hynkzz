@@ -1,6 +1,5 @@
-# Hello 👋, I'm Hasan...
-
-I'm a Computer Engineering student on Bozok University.My goal is to become a skilled kernel developer and work on linux distro projects that will shake the world.
+# Hello 👋, I'm Hasan.
+I'm a Computer Engineering student on Bozok University.
 
 ## Skills
 
